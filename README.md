@@ -16,7 +16,6 @@ He found it incredibly useful. Seeing the positive impact it had, I realized thi
 
 ## Guides
 
-* [from-Python-to-Matlab]()
-* [from-R-to-Python]()
-* [from-Python-to-SAS]()
+* [from-Python-to-Matlab](https://github.com/seydareisli/LanguageLeap/blob/main/from-Python-to-Matlab.md)
+* [from-R-to-Python](https://github.com/seydareisli/LanguageLeap/blob/main/from-R-to-Python.md)
 * More to come!
